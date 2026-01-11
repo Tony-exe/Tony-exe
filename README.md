@@ -5,7 +5,7 @@
  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=25&pause=1000&color=C351F7&center=true&vCenter=true&width=500&height=45&lines=Computer+engineering+student" alt="Typing SVG" /></a>
 </p>
 <p align="center">
-  <h3>​​📌​I'm a 22 y.o. guy from Italy, and I study at <b>Università degli studi RomaTre</b>.</h3>
+  <h3>​​📌​I'm a 22 y.o. guy from Italy, and I study at <b>Università degli Studi RomaTre</b>.</h3>
 </p>
 
 ​▫️​At the moment I don't have so many projects, but my mind is full of ideas! I will build and deploy all of them.​
