@@ -16,9 +16,23 @@
 
 <p>
   <h2>​​💻​Looking for...</h2>
-  ▫️<b>Internship</b> anywhere, in any company, to gain real experience in a professional enviroment. 
-  ▫️<b>Connections</b> with people to collaborate with.
+  <p>▫️<b>Internship</b> anywhere, in any company, to gain real experience in a professional enviroment.</p>   
+  <p>▫️<b>Connections</b> with people to collaborate with.</p>
 </p>
+
+<p>
+  <h2>​​😁​Something else about me</h2>
+  <p>▫️I have a little dog</p>
+
+  <p>▫️I love photography, and photo editing</p>
+  
+  <p>▫️I play videogames like League of Legends, Rocket League and Rainbow 6</p>
+  
+  <p>▫️I love F1 and I'm a really big Ferrari fan</p>
+  
+  <p>▫️One piece is my favourite anime</p>
+</p>
+
 <p>
   <h2>​🔍​Where you can find me</h2>
 </p>
