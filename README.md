@@ -14,6 +14,8 @@
   ▫️I'm Familiar with C and Java (to be onest I prefer C), currently working to get better and better​​💪🏼​
 </p>
 
+▫️I'm also learning Python, to be able to work on new and better projects!
+
 <p>
   <h2>​​💻​Looking for...</h2>
   <p>▫️<b>Internship</b> anywhere, in any company, to gain real experience in a professional enviroment.</p>   
